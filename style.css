@@ -720,8 +720,8 @@ a{
     .hamburger.active .bar:nth-child(3){
         transform: translateY(-8px) rotate(-45deg);
     }
-    .navbar{
-        position: sticky;
+    header{
+        position: fixed;
     }
     .nav-menu{
         position: fixed;
