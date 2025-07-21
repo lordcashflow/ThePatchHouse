@@ -721,7 +721,7 @@ a{
         transform: translateY(-8px) rotate(-45deg);
     }
     .navbar{
-        position: fixed;
+        position: sticky;
     }
     .nav-menu{
         position: fixed;
