@@ -727,6 +727,7 @@ a{
     }
     header img{
         font-weight: bold;
+        width: 15%;
     }
     .nav-menu{
         position: fixed;
