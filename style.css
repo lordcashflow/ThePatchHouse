@@ -780,6 +780,11 @@ a{
         right: 15px;
         border-radius: 50%;
     }
+    .services-container{
+        margin: 0;
+        width: 100%;
+        padding: 40px 0;
+    }
     .services-container button:hover{
         background: #DE8900;
     }
