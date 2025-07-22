@@ -723,7 +723,7 @@ a{
     header{
         position: fixed;
         z-index: 1000000000;
-        padding: 18px;
+        padding: 0 22px;
     }
     header img{
         font-weight: bold;
@@ -763,7 +763,7 @@ a{
         flex-direction: row;
         margin: 0;
         width: 100%;
-        padding: 10px;
+        padding: 0 20px;
     }
     .banner-box{
         width: 100%;
