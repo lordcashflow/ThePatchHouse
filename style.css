@@ -723,6 +723,10 @@ a{
     header{
         position: fixed;
         z-index: 1000000000;
+        padding: 18px;
+    }
+    header img{
+        font-weight: bold;
     }
     .nav-menu{
         position: fixed;
