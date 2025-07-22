@@ -725,9 +725,9 @@ a{
         z-index: 1000000000;
         padding: 0 22px;
     }
-    header img{
+    .navbar img{
         font-weight: bold;
-        width: 20%;
+        width: 15%;
     }
     .nav-menu{
         position: fixed;
