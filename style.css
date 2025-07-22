@@ -758,6 +758,8 @@ a{
         display: flex;
         flex-direction: row;
         margin: 0;
+        width: 100%;
+        padding: 10px;
     }
     .banner-box{
         width: 100%;
